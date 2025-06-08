@@ -14,3 +14,17 @@ This project calculates the required ingredients to make a specific number of cu
 3. View your result in the console.
 
 
+# challenge 2-Boda Boda Fare Estimator
+
+This tool helps you estimate the cost of a boda boda ride based on the trip distance.
+
+## Fare Rules:
+- Base fare: KES 50
+- Per kilometer: KES 15
+
+## How to Use:
+1. Open fare.js in a browser console.
+2. When prompted, enter the trip distance in kilometers.
+3. The estimated fare is displayed in the console.
+
+Karibu kwa safari ya Pikipiki!
