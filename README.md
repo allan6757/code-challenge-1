@@ -22,6 +22,25 @@ This tool helps you estimate the cost of a boda boda ride based on the trip dist
 - Base fare: KES 50
 - Per kilometer: KES 15
 
+# challenge 3-Mobile Money Transaction Fee Estimator
+
+This tool estimates the transaction fee for sending money via mobile services using a simplified rule.
+
+## Fee Rules:
+- Standard fee: 1.5% of the transaction amount
+- Minimum fee: KES 10
+- Maximum fee: KES 70
+
+## How to Use:
+1. Open fee.js in a browser console.
+2. When prompted, enter the amount of money you want to send.
+3. The fee and total debited amount will be displayed in the console.
+
+Tuma pesa bila stress!
+
+
+
+
 ## How to Use:
 1. Open fare.js in a browser console.
 2. When prompted, enter the trip distance in kilometers.
