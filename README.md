@@ -51,7 +51,7 @@ Tuma pesa bila stress!
 
 Copyright (c) [2025] Allan maina
 
-Permission is granted to use, copy, modify, and distribute this code for any purpose, provided this notice remains. The code is provided "as is," without warranty.
+Permission is granted to use, copy, modify, and distribute this code for any purpose, provided this notice remains. 
 
 
 
