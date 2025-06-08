@@ -1,4 +1,4 @@
-# Chai Bora Ingredient Calculator
+# challenge 1-Chai Bora Ingredient Calculator
 
 This project calculates the required ingredients to make a specific number of cups of Kenyan TEA.
 
